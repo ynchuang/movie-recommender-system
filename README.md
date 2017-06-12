@@ -1,3 +1,4 @@
 # VIRsystem
-  Created by Shiny  https://nccurfinalproject.shinyapps.io/recomdata/
+  Video intelligence Recommender system, created by R.shiny package.
+  https://nccurfinalproject.shinyapps.io/recomdata/
   
